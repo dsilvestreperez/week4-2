@@ -1,0 +1,22 @@
+namespace week;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+
+        string[] final = { "assignment", "midern", "final" };
+        foreach (string i in final)
+        {
+            Console.WriteLine("assignmentis 40%");
+
+            Console.WriteLine("midtern is 30%");
+
+            Console.Write("final is 30%");
+        }
+
+
+
+            
+    }
